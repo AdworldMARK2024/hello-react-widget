@@ -1,0 +1,21 @@
+.gh-cdn-widget {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.gh-cdn-widget h3 {
+    color: #2271b1;
+}
+
+.gh-cdn-widget button {
+    background: #2271b1;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+}
